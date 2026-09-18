@@ -6,10 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "flysmp-DJOw.aternos.me
-",
-    "port": 33780,
-    "version": "1.21.8"
+    "ip": "example.aternos.me",
+    "port": 25565,
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
