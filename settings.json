@@ -8,7 +8,7 @@
   "server": {
     "ip": "flysmp-DJOw.aternos.me",
     "port": 33780,
-    "version": "1.21.1"
+    "version": "1.21.8"
   },
   "position": {
     "enabled": true,
